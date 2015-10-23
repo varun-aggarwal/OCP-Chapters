@@ -1,12 +1,12 @@
-package innerclass;
+package innerclass.staticnested;
 
 public class StaticNestedClass {
 
-    static class PrintingPress {
+    public static class PrintingPress {
 
         String hi = "Hello from StaticNested Inner class";
 
-        void print() {
+        public void print() {
             System.out.println(hi);
         }
     }

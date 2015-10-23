@@ -1,10 +1,11 @@
 package innerclass;
 
-import innerclass.StaticNestedClass.PrintingPress;
 import innerclass.anonymus.ArgumentDefinedAnonymusInnerClass;
 import innerclass.anonymus.PlainOldAnonymusClass;
 import innerclass.methodlocal.MethodLocalInnerClass;
 import innerclass.regular.RegularInnerClass;
+import innerclass.staticnested.StaticNestedClass;
+import innerclass.staticnested.StaticNestedClass.PrintingPress;
 
 public class Main {
 
