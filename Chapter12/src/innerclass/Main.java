@@ -41,8 +41,7 @@ public class Main {
         System.out
             .println("==================Regular Inner Class accessig Inner class ========================");
         RegularInnerClass regularInnerClass = new RegularInnerClass();
-        regularInnerClass.print();
-        //////
+        regularInnerClass.new Print();
     }
 
     private void innerClassCombinationDemo() {
